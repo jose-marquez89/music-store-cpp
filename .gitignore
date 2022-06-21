@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# specifics
+test_one
+
+# sqlite
+*.db
